@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pooja
 - 👀 I’m interested in building strong technical skills set.
-- 🌱 I’m currently learning Mulesoft Integration Services.
+- 🌱 I’m skilled in Mulesoft Integration Services.
 - 💞️ I’m looking to collaborate on any code challenge.
 - 📫 you can reach out to me on my Skype er.poojashah
 
